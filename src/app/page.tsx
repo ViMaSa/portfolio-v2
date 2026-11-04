@@ -41,7 +41,6 @@ export default function HomePage() {
             Contact ↗
           </Link>
         </div>
-        <div className="social-links"><a href="https://github.com/ViMaSa" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a href="https://www.linkedin.com/in/vimasa/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a><Link href="/connect">Contact ↗</Link></div>
       </div>
       <div className="hero-visual hero-photo-layout">
         <ProfileHero />
